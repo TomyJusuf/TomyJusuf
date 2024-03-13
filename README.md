@@ -8,7 +8,7 @@
 <h3 align="center">I'm born in Czech Republic 🇨🇿 and now I living in Austria 🇦🇹 ❤️</h3>
 
 <br/>
-<div style="">
+
 <div align="center">
  
  🔭 I’m currently working on **a frontend**
@@ -19,8 +19,8 @@
 
 or anything from my gitHub [here](https://github.com/TomyJusuf)\*\*
 
- </div>
-<img align="center" src="img/tomyjusuf.png" style="width:250px">
+ </div><div style=""align="center">
+<img  src="img/tomyjusuf.png" style="width:250px">
 </div>
 
 <div align="center"> 
