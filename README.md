@@ -17,7 +17,7 @@
 
 💬 Ask me about **JavaScript, React,(Junior) ... or anything from my gitHub [here](https://github.com/TomyJusuf)**
 
-⚡ Fun fact **China produce the Iphone for 5 $, and the Apple sell it for 1300 $ $**
+⚡ Fun fact **China produce the Iphone for 5, and the Apple sell it for 1300 $ $**
 
  </div>
  
