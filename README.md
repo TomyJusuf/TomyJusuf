@@ -5,15 +5,15 @@
 <hr>
 
 <h3 align="center">Passion 👨 Frontend Web Developer👨🏻‍💻 for 3 year</h3>
-<h3 align="center">I'm born in Czech Republic 🇨🇿 and now I living in Austria 🇦🇹 ❤️</h3>
-
+<h3 align="center">Born in Czech Republic 🇨🇿 .</h3>
+<h3 align="center">And living in one of the most beautiful country Austria🇦🇹 ❤️</h3>
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a frontend**
+ 🔭 I’m currently working on **my skill as WEB-DEVELOPER**
  
- 🌱 I’m currently learning **JavaScript, TypeScript, React, MongoDB**
+ 🌱 I’m currently learning **JavaScript, TypeScript, React, MongoDB,**
 
 💬 Ask me about **JavaScript, React,(Junior) ... or anything from my gitHub [here](https://github.com/TomyJusuf)**
 
