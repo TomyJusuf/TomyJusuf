@@ -1,11 +1,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tomyjusuf.tomasmatusek" />
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tomas+Matusek!;" />
 </h1>
+<hr>
 
-<h3 align="center">❤️Passion Frontend Web Developer for 3 year❤️</h3>
-<h3 align="center">From Czech Republic 🇨🇿, living in Austria 🇦🇹 ❤️</h3>
+<h3 align="center">Passion 👨🏻‍💻Frontend Web Developer👨🏻‍💻 for 3 year</h3>
+<h3 align="center">I'm born in Czech Republic 🇨🇿 and now I living in Austria 🇦🇹 ❤️</h3>
 
 <br/>
 
@@ -72,5 +72,5 @@
 
 <br/>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+You+For+Visiting+👋;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+You+For+Visiting+👋;" />
 </h1>
