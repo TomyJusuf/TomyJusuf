@@ -20,7 +20,7 @@
 or anything from my gitHub [here](https://github.com/TomyJusuf)\*\*
 
  </div>
-<img src="img/tomyjusuf.png" style="width:250px">
+<img align="center" src="img/tomyjusuf.png" style="width:250px">
 </div>
 
 <div align="center"> 
