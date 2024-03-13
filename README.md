@@ -8,8 +8,8 @@
 <h3 align="center">I'm born in Czech Republic 🇨🇿 and now I living in Austria 🇦🇹 ❤️</h3>
 
 <br/>
-<div style="display:flex">
-<div align="left">
+<div style="">
+<div align="center">
  
  🔭 I’m currently working on **a frontend**
  
