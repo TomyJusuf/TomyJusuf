@@ -4,7 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tomas+Matusek!;" />
 </h1>
 
-<h3 align="center">A passionate frontend web developer living in Austria 🇨🇦</h3>
+<h3 align="center">❤️Passion Frontend Web Developer❤️</h3>
+<h3 align="center">From Czech Republic 🇨🇿, living in Austria 🇦🇹</h3>
 
 <br/>
 
@@ -14,9 +15,9 @@
  
  🌱 I’m currently learning **JavaScript, TypeScript, React, MongoDB**
 
-💬 Ask me about **JavaScript, React, ... or anything from my gitHub [here](https://github.com/TomyJusuf)**
+💬 Ask me about **JavaScript, React,(Junior) ... or anything from my gitHub [here](https://github.com/TomyJusuf)**
 
-⚡ Fun fact **China produce the Iphone for 5$ $ , and the Apple sell it for 1300 $**
+⚡ Fun fact **China produce the Iphone for 5 $, and the Apple sell it for 1300 $ $**
 
  </div>
  
@@ -69,8 +70,7 @@
 
 <br/>
 
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
 <br/>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+You+For+Visiting+👋;" />
+</h1>
