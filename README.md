@@ -11,7 +11,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a frontend**
+
  
  🌱 I’m currently learning **JavaScript, TypeScript, React, MongoDB**
 
@@ -32,7 +32,7 @@ or anything from my gitHub [here](https://github.com/TomyJusuf)\*\*
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
-<h4 align="center">⚡ Fun fact **China produces the iPhone for $5, and Apple sells it for $1300. **</h4>
+
 
  <hr/>
  
