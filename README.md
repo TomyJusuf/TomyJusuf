@@ -2,7 +2,6 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Devs!+👋;+Welcome+to+my+gitHub!;" />
 </h1>
-<hr>
 
 <div align="">
 
@@ -19,8 +18,6 @@ Look at my portfolio here:: <br> <a href="https://portfolio-tomas-matusek.netlif
 
 </a>
 
-
-
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
@@ -30,7 +27,6 @@ Look at my portfolio here:: <br> <a href="https://portfolio-tomas-matusek.netlif
 </div>
 
 <br/>
-<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
