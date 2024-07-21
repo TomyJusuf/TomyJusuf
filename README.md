@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/mail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
 </a>
 
-Look at my portfolio: <a href="https://portfolio-tomas-matusek.netlify.app/" target="_blank">
+Look at my portfolio: <br> <a href="https://portfolio-tomas-matusek.netlify.app/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
 
 </a>
