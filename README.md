@@ -18,8 +18,8 @@ Look at my portfolio here:: <br> <a href="https://portfolio-tomas-matusek.netlif
 
 </a>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+
+<br/><h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,typescript,express" /><br>
     <img src="https://skillicons.dev/icons?i=figma,scss,tailwindcss" /><br>
