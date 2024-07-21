@@ -19,15 +19,7 @@ Look at my portfolio: <a href="https://portfolio-tomas-matusek.netlify.app/" tar
 
 </a>
 
- <div style=""align="center">
-<img  src="img/tomyjusuf.png" style="width:250px">
-</div>
 
-<div align="center"> 
-  
- 
- 
-</div>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
