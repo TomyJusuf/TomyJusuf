@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tomyjusuf.tomasmatusek" />
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tomas+Matusek!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Devs!+👋;+Welcome to my gitHub!;" />
 </h1>
 <hr>
 
@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/mail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
 </a>
 
-Look at my portfolio: <br> <a href="https://portfolio-tomas-matusek.netlify.app/" target="_blank">
+Look at my portfolio here:: <br> <a href="https://portfolio-tomas-matusek.netlify.app/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
 
 </a>
