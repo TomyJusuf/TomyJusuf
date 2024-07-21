@@ -19,8 +19,9 @@ Look at my portfolio here:: <br> <a href="https://portfolio-tomas-matusek.netlif
 </a>
 
 
-<br/><h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
 <div align="center">
+    <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,typescript,express" /><br>
     <img src="https://skillicons.dev/icons?i=figma,scss,tailwindcss" /><br>
     <img src="https://skillicons.dev/icons?i=npm,git,github" /><br>
