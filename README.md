@@ -9,7 +9,7 @@ Hi, I’m Tomas Matusek, a passionate and dedicated web developer with a deep lo
 
 <div>
 </div>
- Send me message here:<br> <a href="https://tomasmatusek-portfolio.netlify.app/#contact">
+ Send me message here:<br> <a href="https://tomasmatusek-portfolio.netlify.app/#contact" target="_blank">
 <img src="https://img.shields.io/badge/mail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
 </a>
 
