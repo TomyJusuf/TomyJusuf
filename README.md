@@ -5,7 +5,8 @@
 
 <div align="">
 
-Hi, I’m Tomas Matusek, a passionate and dedicated web developer with a deep love for designing and developing front-end solutions. My journey in web development has been fueled by my curiosity for new technologies. I spend countless hours honing my skills and staying up-to-date with the latest industry trends. I am constantly seeking new opportunities to learn and grow, eager to bring innovative ideas to life.
+
+Hi, I’m Tomas Matusek, a passionate and dedicated web developer with a deep love for designing and developing front-end solutions. My journey in web development has been fueled by a curiosity for new technologies. I spend countless hours honing my skills and staying up-to-date with the latest industry trends. I am constantly seeking new opportunities to learn and grow and am eager to bring innovative ideas to life.
 
 <div>
 </div>
