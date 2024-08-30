@@ -14,7 +14,7 @@ Feel free to send me a message at:<br> <a href="https://tomasmatusek-portfolio.n
 <img src="https://img.shields.io/badge/mail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
 </a>
 
-You can view my portfolio here: <br> <a href="https://tomasmatusek-portfolio.netlify.app/" target="_blank">
+You can view my portfolio here: <br> <a href="https://tomyjusuf.github.io/Portfolio_Tomas_Matusek/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
 
 </a>
