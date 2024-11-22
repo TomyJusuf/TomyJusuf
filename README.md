@@ -23,7 +23,7 @@ You can view my portfolio here: <br> <a href="https://tomasmatusek-portfolio.net
 <br/>
 <div align="center">
     <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,typescript,express" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,typescript,webpack" /><br>
     <img src="https://skillicons.dev/icons?i=figma,scss,tailwindcss,npm,git,github" /><br>
     
 </div>
